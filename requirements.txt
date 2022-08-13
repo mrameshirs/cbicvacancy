@@ -6,3 +6,4 @@ requests==2.27.1
 selenium==4.4.0
 telegram==0.0.1
 xlrd==2.0.1
+python-telegram-bot==13.13
