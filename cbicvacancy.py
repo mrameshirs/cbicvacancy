@@ -40,8 +40,8 @@ def sendmsg(msg):
 
 def main():   
     while True:
-        #time.sleep(60*60*2)
-        time.sleep(5)
+        time.sleep(60*60*2)
+        #time.sleep(5)
         # datetime object containing current date and time
         now = datetime.now()
          
