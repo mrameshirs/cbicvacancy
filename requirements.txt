@@ -1,0 +1,8 @@
+chromedriver_autoinstaller==0.4.0
+moment==0.12.1
+pandas==1.4.2
+pymongo==4.2.0
+requests==2.27.1
+selenium==4.4.0
+telegram==0.0.1
+xlrd==2.0.1
